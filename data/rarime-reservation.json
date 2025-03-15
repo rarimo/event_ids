@@ -1,0 +1,6 @@
+{
+  "name": "RariMe Reservation",
+  "type": "offchain",
+  "event_id": "211985299740800702300256033401632392934377086534111448880928528431996790315",
+  "link": "https://github.com/rarimo/rarime-points-svc/blob/main/internal/config/verifier.go#L12"
+}
