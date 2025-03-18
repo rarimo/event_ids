@@ -1,0 +1,6 @@
+{
+  "name": "Passport Voting",
+  "type": "onchain",
+  "event_id": "dynamic",
+  "link": "https://github.com/rarimo/passport-voting-contracts/blob/master/contracts/state/ProposalsState.sol#L275"
+}
