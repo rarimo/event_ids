@@ -1,0 +1,9 @@
+{
+  "name": "Passproof",
+  "domain": "passproof.eth.limo",
+  "type": "onchain",
+  "chain_id": "8453",
+  "event_id": "172217765450477592751209076624575168512",
+  "link": "https://passproof.eth.limo/",
+  "description": "Mint NFT with uniqueness check"
+}
